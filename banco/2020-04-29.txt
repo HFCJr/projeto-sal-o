@@ -1,0 +1,9 @@
+O(a) Funcionário(a) heligleison produziu R$35.00
+R$26.90 para o salão 
+R$8.10 para ele(a) 
+2 serviços feitos
+O(a) Funcionário(a) sandy produziu R$80.00
+R$45.20 para o salão 
+R$34.80 para ele(a) 
+2 serviços feitos
+O salão produziu 72.10 no total gerando 72.10 de lucro.
